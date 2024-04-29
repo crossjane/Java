@@ -1,0 +1,8 @@
+package chap02_variables;
+
+public class _08_VarVariable {
+
+	public static void main(String[] args) {
+		
+	}
+}
