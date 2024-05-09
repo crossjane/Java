@@ -1,4 +1,4 @@
-package _08_mixx;
+package _08_mix;
 
 import java.util.Scanner;
 
@@ -12,15 +12,15 @@ public class _01_basic02 {
 //
 
 
-// 
-//		Scanner sc = new Scanner(System.in);
-//		System.out.println("영어단어를 입력하세요");
-//		String alpha = sc.nextLine();
-//		
-//	
-//		String newStr = alpha.replaceAll("[aeiou]", "");
-//		
-//		System.out.println(newStr);
+ 
+		Scanner sc = new Scanner(System.in);
+		System.out.println("영어단어를 입력하세요");
+		String alpha = sc.nextLine();
+		
+	
+		String newStr = alpha.replaceAll("[aeiou]", "");
+		
+		System.out.println(newStr);
 
 	
 		//3. 16.459를 소수점 둘 째 자리까지 반올림해서 출력(xx.xx), Math.round 메소드 이용
@@ -28,7 +28,6 @@ public class _01_basic02 {
 		double value = 16.459;
 		
 		double result = Math.round(value * 100) / 100.0; 
-		//셋째자리면 1000을 곱하고 1000으로 나누기
 			System.out.println(result);
 		
 		

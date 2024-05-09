@@ -1,4 +1,4 @@
-package _08_mixx;
+package _08_mix;
 
 import java.util.Scanner;
 
@@ -20,6 +20,7 @@ public class _02_middle01 {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("문자열을 입력하세요.");
 		String str = sc.nextLine();
 		char[] strArr = new char[str.length()];
 		
@@ -27,15 +28,16 @@ public class _02_middle01 {
 			strArr[i] = str.charAt(i);
 	}
 		
-		// 문자열의 가운데 인덱스를 계산합니다.
+		// 문자열의 가운데 인덱스를 계산
 		int middleIndex = str.length() / 2;
+		
 
 		// 문자열의 길이가 짝수일 경우
 		if(str.length() % 2 == 0) {
-		    // 가운데 두 문자를 출력합니다.
+		    // 가운데 두 문자를 출력하기
 		    System.out.println(strArr[middleIndex - 1] + "" + strArr[middleIndex]);
 		} else { // 문자열의 길이가 홀수일 경우
-		    // 가운데 문자를 출력합니다.
+		    // 가운데 문자를 출력
 		    System.out.println(strArr[middleIndex]);
 		}
 	}

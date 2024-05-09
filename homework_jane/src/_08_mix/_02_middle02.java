@@ -1,4 +1,4 @@
-package _08_mixx;
+package _08_mix;
 
 public class _02_middle02 {
 	
