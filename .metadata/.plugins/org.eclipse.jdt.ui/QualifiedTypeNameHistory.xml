@@ -5,7 +5,6 @@
     <fullyQualifiedTypeName name="chap06_method.calc.ParameterCalculator"/>
     <fullyQualifiedTypeName name="chap06_method.calc.CompleteCalculator"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="chap06_method.score.Score"/>
     <fullyQualifiedTypeName name="chap06_method.calc.OverloadingCalculator"/>
     <fullyQualifiedTypeName name="_04_method.RockScissPaper"/>
@@ -39,8 +38,24 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.LocalNestedClass"/>
     <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.AnonymousNestedClass"/>
-    <fullyQualifiedTypeName name="chap14_objectarray.car.Car"/>
     <fullyQualifiedTypeName name="chap14_objectarray.car.CarInterface"/>
     <fullyQualifiedTypeName name="chap14_objectarray.car.HyundaiCar"/>
     <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="java.math.RoundingMode"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="java.math.BigInteger"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="chap14_objectarray.car.Car"/>
+    <fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
 </qualifiedTypeNameHistroy>
