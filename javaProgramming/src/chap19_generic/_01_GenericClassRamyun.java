@@ -1,9 +1,11 @@
-package chap19_generic.box;
+package chap19_generic;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class _01_GenericClass {
+import chap19_generic.box.Box;
+
+public class _01_GenericClassRamyun {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

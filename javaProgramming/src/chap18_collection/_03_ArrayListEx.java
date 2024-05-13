@@ -26,13 +26,17 @@ public class _03_ArrayListEx {
 		 
 		List<StringBuilder> strBuildList = new ArrayList<>();
 		
+		// 문자열을 10씩 잘라서 List<StringBuilder>에 저장
 		for(int i = 0 ; i < strBuild.length(); i+=10) {
+			//문자열의 길이가 10보다 클경우 
 			if(i + 10 < strBuild.length()) {
+				//새로운 객체를 만들어서 저장 10씩 저장? 
 				strBuildList.add(
 					new StringBuilder(
 							strBuild.substring(i, i+10)
 							)
 					);
+				  // 남은 부분 문자열을 새로운 StringBuilder로 만들어 List에 추가
 			} else {
 				strBuildList.add(
 					new StringBuilder(
