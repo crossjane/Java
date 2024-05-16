@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javax.print.attribute.SetOfIntegerSyntax"/>
-    <fullyQualifiedTypeName name="chap06_method.calc.AccessModifierCalculator"/>
-    <fullyQualifiedTypeName name="chap06_method.calc.ParameterCalculator"/>
-    <fullyQualifiedTypeName name="chap06_method.calc.CompleteCalculator"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="chap06_method.score.Score"/>
-    <fullyQualifiedTypeName name="chap06_method.calc.OverloadingCalculator"/>
-    <fullyQualifiedTypeName name="_04_method.RockScissPaper"/>
-    <fullyQualifiedTypeName name="chap07_class.car.CarConstructor"/>
     <fullyQualifiedTypeName name="chap07_class.game.Numbaseball"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="_05_class.User"/>
@@ -35,7 +26,6 @@
     <fullyQualifiedTypeName name="java.net.MulticastSocket"/>
     <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Mul"/>
     <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Div"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.LocalNestedClass"/>
     <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.AnonymousNestedClass"/>
     <fullyQualifiedTypeName name="chap14_objectarray.car.CarInterface"/>
@@ -56,6 +46,18 @@
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="chap14_objectarray.car.Car"/>
     <fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
-    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="chap21_multithread.threads.NonSyncThread01"/>
+    <fullyQualifiedTypeName name="chap21_multithread.threads.NonsyncThread02"/>
+    <fullyQualifiedTypeName name="chap21_multithread.threads.PrintNumWithoutSync"/>
+    <fullyQualifiedTypeName name="chap21_multithread.threads.PrintNumWaitNotify"/>
+    <fullyQualifiedTypeName name="chap21_multithread.threads.WaitNotifyThread01"/>
+    <fullyQualifiedTypeName name="chap21_multithread.threads.WaitNotifyThread02"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="chap21_multithread.threads.SafeExitThread"/>
+    <fullyQualifiedTypeName name="chap21_multithread.threads.SumThread01"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+    <fullyQualifiedTypeName name="chap21_multithread.threads.PrintThread"/>
 </qualifiedTypeNameHistroy>
