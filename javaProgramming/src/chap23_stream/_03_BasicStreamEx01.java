@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
+import chap23_stream.car.HyundaiCar;
+
 public class _03_BasicStreamEx01 {
 
 	public static void main(String[] args) {

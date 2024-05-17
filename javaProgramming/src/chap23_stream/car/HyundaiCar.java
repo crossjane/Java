@@ -1,4 +1,4 @@
-package chap23_stream;
+package chap23_stream.car;
 
 public class HyundaiCar {
 	private String model; 
@@ -29,6 +29,10 @@ public class HyundaiCar {
 		return "HyundaiCar [model=" + model + ", price=" + price + "]";
 	}
 	
+	public void carInfo() {
+		System.out.println("모델" + this.model);
+		System.out.println("가격" + this.price);
+	}
 	
 	}
 	
