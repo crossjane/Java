@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chap07_class.game.Numbaseball"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="_05_class.User"/>
-    <fullyQualifiedTypeName name="chap08_static.car.CarStatic"/>
     <fullyQualifiedTypeName name="chap09_inherit.car.HyundaiCar"/>
     <fullyQualifiedTypeName name="chap09_inherit.car.KiaCarInherit"/>
     <fullyQualifiedTypeName name="chap09_inherit.car.HyundaiCarInherit"/>
@@ -47,7 +43,6 @@
     <fullyQualifiedTypeName name="chap14_objectarray.car.Car"/>
     <fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="chap21_multithread.threads.NonSyncThread01"/>
     <fullyQualifiedTypeName name="chap21_multithread.threads.NonsyncThread02"/>
     <fullyQualifiedTypeName name="chap21_multithread.threads.PrintNumWithoutSync"/>
@@ -60,4 +55,9 @@
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
     <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
     <fullyQualifiedTypeName name="chap21_multithread.threads.PrintThread"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
