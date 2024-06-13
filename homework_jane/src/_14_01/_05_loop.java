@@ -104,6 +104,85 @@ public class _05_loop {
 //			System.out.println(chaArr[i]);
 //		}
 		
+		//8. 중첩 for문으로 이용해서 다음과 같이 출력하세요.
+		//	
+		//8-1. *
+//		       **
+//		       ***
+//		       ****
+//		       *****
+		
+//		for(int i = 0; i < 5; i++ ) {
+//			System.out.println();
+//			for(int j = 0; j < i+1; j++) {
+//				System.out.print("*");
+//			}
+//			
+//			
+//		}
+//		
+		
+		
+		
+
+		for(int i = 0; i < 5; i++ ) {
+			System.out.println();
+			for(int j = 0; j < 5; j++) {
+				if(i >= j ) {
+				System.out.print("*");
+				}
+			}
+			
+			
+		}
+		
+		
+		
+		//
+		//8-2.   *****
+//		          ****
+//		           ***
+//		            **
+//		             *	
+		
+//		for(int i = 0; i < 5; i++) {
+//			System.out.println();
+//			for(int j = 0; j < 5-i; j++) {
+//				System.out.print("*");
+//			}
+//		}
+//		
+		
+		//9. 사용자가 q를 입력하기 전까지 계속 반복하면서 입력한 정수의 값을 더해서 출력하세요.
+		
+//		int sum = 0;
+//		
+//		//무한 반복이기때문에 
+//		while(true) {
+//			System.out.println("정수를 입력해주세요.");
+//			String inputStr = sc.nextLine();
+//
+//			if(inputStr.equals("q")) {
+//				System.out.println("프로그램이 종료되었습니다.");
+//				break;
+//
+//			}
+//			
+//			//객체를 반환해야하는 래퍼클래스. 
+//			Integer number = Integer.valueOf(inputStr);
+//			
+//			
+//			if(number != null) {
+//				  sum += number;
+//				 
+//			} 
+//			
+//			
+//		} System.out.println(" 더한 정수의 값: " + sum);
+//		
+//		
+		
+		
 		
 		
 	}
