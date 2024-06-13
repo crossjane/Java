@@ -56,28 +56,29 @@ public class Account {
 		
 	}
 	
-	private static void deposit(double money) {
-		 if (money > 0) {
-	            this.balance += money;
-	            System.out.println(money + "원이 입금되었습니다."); 
-	        } else {
-	            System.out.println("입금할 금액이 없습니다.");
-	        }
-	    }
-		
-	
-
-	private static void witdraw() {
-		Scanner sc = new Scanner(System.in);
-		System.out.println("출금할 금액을 입력해주세요.");
-		int money = sc.nextInt();
-		Account account = new Account(money);
-		account.getBalance();
-	}
-	
-	public static showInfo() {
-		
-	}
+//	//메서드만들려다 포기하고 case에 집어넣기로
+//	private static void deposit(double money) {
+//		 if (money > 0) {
+//	            this.balance += money;
+//	            System.out.println(money + "원이 입금되었습니다."); 
+//	        } else {
+//	            System.out.println("입금할 금액이 없습니다.");
+//	        }
+//	    }
+//		
+//	
+//
+//	private static void witdraw() {
+//		Scanner sc = new Scanner(System.in);
+//		System.out.println("출금할 금액을 입력해주세요.");
+//		int money = sc.nextInt();
+//		Account account = new Account(money);
+//		account.getBalance();
+//	}
+//	
+//	public static showInfo() {
+//		
+//	}
 	
 	
 }
